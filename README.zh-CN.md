@@ -19,7 +19,7 @@
 
 Ultralytics YOLOv5 🚀 是由 [Ultralytics](https://www.ultralytics.com/) 开发的尖端、达到业界顶尖水平（SOTA）的计算机视觉模型。基于 [PyTorch](https://pytorch.org/) 框架，YOLOv5 以其易用性、速度和准确性而闻名。它融合了广泛研究和开发的见解与最佳实践，使其成为各种视觉 AI 任务的热门选择，包括[目标检测](https://docs.ultralytics.com/tasks/detect/)、[图像分割](https://docs.ultralytics.com/tasks/segment/)和[图像分类](https://docs.ultralytics.com/tasks/classify/)。
 
-我们希望这里的资源能帮助您充分利用 YOLOv5。请浏览 [YOLOv5 文档](https://docs.ultralytics.com/yolov5/)获取详细信息，在 [GitHub](https://github.com/ultralytics/yolov5/issues/new/choose) 上提出 issue 以获得支持，并加入我们的 [Discord 社区](https://discord.com/invite/ultralytics)进行提问和讨论！
+我们希望这里的资源能帮助您充分利用 YOLOv5。请浏览 [YOLOv5 文档](https://docs.ultralytics.com/yolov5/)获取详细信息，在 [GitHub](https://github.com/ultralytics/yolov5/issues/new/choose) 上提出 issue 以获得支持，并加入 我们的 [Discord 社区](https://discord.com/invite/ultralytics)进行提问和讨论！
 
 如需申请企业许可证，请填写 [Ultralytics 授权许可](https://www.ultralytics.com/license) 表格。
 
